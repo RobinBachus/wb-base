@@ -3,7 +3,7 @@
 #include <WiFi.h>              // Standard ESP32 Library
 #include <PubSubClient.h>      // https://github.com/knolleary/pubsubclient (intall with library Manager)
 
-
+//hallo
 // WIFI Credentials 
 // Connect to Hotspot on mobile phone 
 // Ask teacher for Bletchey wifi credentials
